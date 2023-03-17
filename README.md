@@ -8,7 +8,7 @@ The system can track a variety of data points including student attendance, beha
 - First we implemented the libraries
 - Understood about the data
 - Tested different Models and find the best model out of it
-- Trained the model using Intel OneAPI
+- Trained the model using Intel OneAPI Dnn
 - Saved the model
 
 ## **BENEFITS:**
