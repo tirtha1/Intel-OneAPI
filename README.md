@@ -1,5 +1,6 @@
 # Intel-OneAPI
-The Class Monitoring System using AI and ML technology is designed to monitor real-time student behaviour in the classroom. It provides teachers and school administrators with valuable insights into student engagement, attendance, and behaviour. This system is particularly useful in identifying students who may be struggling or disengaged in class.
+The Class Monitoring System using AI and ML technology is designed to monitor real-time student behaviour in the classroom. It provides teachers and school administrators with valuable insights into student engagement, attendance, and behaviour. This system is particularly useful in identifying students who may be struggling or disengaged in class. In this project we used Intel's ONEAPI library OneDnn to increase the accuracy of the project.
+
 ## **FEATURES:**
 The system can track a variety of data points including student attendance, behaviour, engagement and can detect if a student is sleeping, eating or using a mobile device in class. The system uses cameras and other sensors to monitor student behaviour and engagement during class, providing real-time feedback to the teacher. The system can also use facial recognition technology to track student attendance and ensure that all students are present in the classroom. In this project we have included real time behaviour of a student in the classroom which can detect if a student is using mobile phone, using laptop, talking with someone, drinking or sleeping in the classroom.
 
